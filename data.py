@@ -3,4 +3,4 @@ def add(x,y):
 
 if __name__ == "__main__":
     print ("Executed when invoked directly")
-    add(4,6)
+    print(add(4,6))
